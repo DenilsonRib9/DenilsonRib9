@@ -17,5 +17,7 @@
 </div><br/><br/>
 
 Apaixonado por tecnologia e pela sua capacidade de mudar vidas.
+<br/>
+<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonrib9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
